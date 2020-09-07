@@ -1,0 +1,24 @@
+Key for converting an SCP article into a JSON file.
+
+title: The title of the article (String)
+itemNum: SCP- whatever number (String)
+objClass: The Object's Class (String)
+image: OPTIONAL!  If there is an image (Dictionary of Strings)
+    url: Url of the image. (String)
+    caption: Caption under the image (String)
+spcp: Special Containment Procedures (Array of Strings)
+description: The description (Array of Strings)
+addendums: Array of dictionaries which will contain:
+    adtitle: Title of the addendum. (String)
+    paragraphs: The plaintext that makes up the addendum. (Array of Strings)
+lastupdated: The last time the article was updated IN THE REPO.
+author: The author of the article.
+
+
+Notes:
+In Strings:
+    "LARGE:" means that the title will be a header.
+    "-bold-" and "-endbold-" means that anything inside it should be bolded.
+
+
+Last Updated September 7, 2020.
