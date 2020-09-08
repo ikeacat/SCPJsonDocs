@@ -19,6 +19,7 @@ Notes:
 In Strings:
     "LARGE:" means that the title will be a header.
     "-bold-" and "-endbold-" means that anything inside it should be bolded.
+    "-bulletpoint-" means that there should be a bulletpoint.
 
 
 Last Updated September 7, 2020.
