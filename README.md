@@ -1,2 +1,2 @@
 # SCPJsonDocs
-A repository for the JSON documents that are for my SCPAccess app.
+A repository for converted SCP Docs.
