@@ -3,7 +3,7 @@ Key for converting an SCP article into a JSON file.
 title: The title of the article (String)
 itemNum: SCP- whatever number (String)
 objClass: The Object's Class (String)
-image: OPTIONAL!  If there is an image (Dictionary of Strings)
+image: OPTIONAL!  If there is an image (Array of Dictionary of Strings)
     url: Url of the image. (String)
     caption: Caption under the image (String)
 spcp: Special Containment Procedures (Array of Strings)
@@ -20,6 +20,7 @@ In Strings:
     "LARGE:" means that the title will be a header.
     "-bold-" and "-endbold-" means that anything inside it should be bolded.
     "-bulletpoint-" means that there should be a bulletpoint.
+    "DOTTEDBOX:" means that it should be in a box. (See bottom of http://www.scpwiki.com/scp-002 for example.)
 
 
 Last Updated September 7, 2020.
