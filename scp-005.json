@@ -2,10 +2,10 @@
     "title": "Skeleton Key",
     "itemNum": "SCP-005",
     "objClass": "Safe",
-    "image": {
+    "image": [{
         "url": "http://scp-wiki.wdfiles.com/local--files/scp-005/SCP-005.jpg",
         "caption": "A close up of SCP-005"
-    },
+    }],
     "spcp": [
         "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one (1) Level 4 personnel is required for the removal of the object from its containment area."
     ],
