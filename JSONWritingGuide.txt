@@ -21,6 +21,7 @@ In Strings:
     "-bold-" and "-endbold-" means that anything inside it should be bolded.
     "-bulletpoint-" means that there should be a bulletpoint.
     "DOTTEDBOX:" means that it should be in a box. (See bottom of http://www.scpwiki.com/scp-002 for example.)
+    "-italic-" and "-enditalic-" means that it should be italicized.
 
 
 Last Updated September 7, 2020.
