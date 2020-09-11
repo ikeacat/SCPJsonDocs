@@ -8,7 +8,7 @@ image: OPTIONAL!  If there is an image (Array of Dictionary of Strings)
     caption: Caption under the image (String)
 spcp: Special Containment Procedures (Array of Strings)
 description: The description (Array of Strings)
-addendums: Array of dictionaries which will contain:
+addendums: OPTIONAL! If there is an addendum (Array of dictionaries which will contain):
     adtitle: Title of the addendum. (String)
     paragraphs: The plaintext that makes up the addendum. (Array of Strings)
 lastupdated: The last time the article was updated IN THE REPO.
