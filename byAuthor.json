@@ -1,0 +1,41 @@
+{
+    "Unknown": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-002.json",
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-004.json",
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-005.json"
+    ],
+    "DrEverettMann": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-003.json"
+    ],
+    "Dr_Schubert": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-006.json"
+    ],
+    "xthevilecorruptor": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-007.json",
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-012.json"
+    ],
+    "Lee Byron": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-008.json"
+    ],
+    "Chameleon X": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-009.json"
+    ],
+    "Le Blue Dude": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-010.json"
+    ],
+    "Kain Pathos Crow": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-011.json"
+    ],
+    "Dexanote": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-013.json"
+    ],
+    "Whitewings": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-014.json"
+    ],
+    "Dr Gears": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-015.json"
+    ],
+    "DrClef": [
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-016.json"
+    ]
+}

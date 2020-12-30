@@ -66,3 +66,4 @@ paragraphs: Array of strings that make up the addendum.
 classLists.json: Contains arrays of links to raw articles that are all of the same object class.
 JSONWritingGuide.txt: Useful for when writing a JSON file.
 SCPAppConnectionTester.txt: Just to see if downloading from the repo is possible..
+byAuthor.json: Dictionary where each key is an array of links to articles that are of the same author. All unknowns are under "Unknown".
