@@ -61,3 +61,8 @@ There will be multiple instances of these dictionaries in the array.
 
 adtitle: Title of the addendum.
 paragraphs: Array of strings that make up the addendum.
+
+## Special Files
+classLists.json: Contains arrays of links to raw articles that are all of the same object class.
+JSONWritingGuide.txt: Useful for when writing a JSON file.
+SCPAppConnectionTester.txt: Just to see if downloading from the repo is possible..
