@@ -7,7 +7,8 @@
         "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-008.json",
         "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-009.json",
         "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-012.json",
-        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-015.json"
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-015.json",
+        "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-018.json"
     ],
     "safe": [
         "https://raw.githubusercontent.com/ikeacat/SCPJsonDocs/master/scp-005.json",
